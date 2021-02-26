@@ -8,7 +8,7 @@ grails:
             proxies: false
 info:
     app:
-        name: 'banco_financas'
+        name: 'financasServer'
         version: '0.1'
         grailsVersion: '3.2.2'
 spring:
